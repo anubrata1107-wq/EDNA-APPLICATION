@@ -1,0 +1,6 @@
+{
+  "name": "Identifying Taxonomy and Assessing Biodiversity from eDNA Datasets",
+  "description": "An integrated scientific platform for environmental DNA analysis, taxonomic identification, biodiversity assessment, and ecological reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
